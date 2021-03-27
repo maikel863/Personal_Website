@@ -8,5 +8,5 @@ body.appendChild(button);
 
 // Add event handler/ create action for button
 button.addEventListener ("click", function() {
-    alert("Before FlatIron I knew absolutely nothing about JavaScript")
+    alert("Contact me by email at maikel863@outlook.com")
 });

@@ -1,8 +1,9 @@
 body {
+    /* https://unsplash.com/photos/7cuHOvtIv4Q */
     background-image: url(images/background.jpg);
     background-size: cover;
     background-attachment: fixed;
-    color: seashell;
+    color: whitesmoke
 }
 
 img {
@@ -11,8 +12,9 @@ img {
     display: block;
 }
 
-.heading {
+.custom {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
 }
 
 button {
@@ -27,3 +29,4 @@ button {
 button:hover {
     background: lightseagreen
 }
+
