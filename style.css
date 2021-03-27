@@ -1,6 +1,16 @@
-html {
-    background: rgb(192,192,192)
-}
 body {
-    color: oldlace
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: seashell;
+}
+
+img {
+    width:300px;
+    margin: 40px ;
+    display: block;
+}
+
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
