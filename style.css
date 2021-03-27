@@ -6,11 +6,24 @@ body {
 }
 
 img {
-    width:300px;
-    margin: 40px ;
+    width:250px;
+    margin: 20px ;
     display: block;
 }
 
 .heading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    margin-top: 20px;
+    margin: 70px;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0 40px;
+    background: mediumseagreen
+}
+
+button:hover {
+    background: lightseagreen
 }
